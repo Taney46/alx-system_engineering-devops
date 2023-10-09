@@ -1,0 +1,2 @@
+#!/bin/ash
+chmod u+x hello
